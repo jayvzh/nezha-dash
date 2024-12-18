@@ -27,12 +27,8 @@ export default function Footer() {
         </p>
         */
         <section className="mt-1 flex items-center gap-2 text-[13px] font-light tracking-tight text-neutral-600/50 dark:text-neutral-300/50">
-          /* {t("section_607-869_2020")}
           {new Date().getFullYear()}{" "}
-          <a href={"https://buycoffee.top"}>{t("a_800-850_Hamster1963")}</a>
-          */
-          <div class="flex items-center gap-1">©2020-2024 <a href="https://github.com/naiba/nezha" target="_blank">Nezha</a><p></p></div>
-          <p>主题-<a href="https://github.com/hamster1963/nezha-dash" target="_blank">nezha-dash</a><span class="ml-1">(91ef515)</span></p>
+          //<a href={"https://buycoffee.top"}>{t("a_800-850_Hamster1963")}</a>
         </section>
       </section>
     </footer>
